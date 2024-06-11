@@ -17,8 +17,6 @@
 
 This repo contains the PyTorch code for ECML-PKDD 2024 paper "[Continual Neural Computation](tba)".
 
-![alt text](img/dec.png "Decision boundaries")
-
 
 QUICK START: defining a Continual Neural Unit (CNU)
 --------------------------
