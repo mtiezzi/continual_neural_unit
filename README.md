@@ -15,7 +15,7 @@
 ![alt text](img/cnu.png "Continual Neural Unit")
 
 
-This repo contains the PyTorch code for ECML-PKDD 2024 paper "[Continual Neural Computation](tba)".
+This repo contains the PyTorch code for ECML-PKDD 2024 paper "[Continual Neural Computation](https://link.springer.com/chapter/10.1007/978-3-031-70344-7_20)".
 
 
 QUICK START: defining a Continual Neural Unit (CNU)
